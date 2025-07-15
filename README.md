@@ -1,2 +1,3 @@
 # ADG-SSCore-iOS
-SPM（Swift Package Manager）
+
+Supports installation via [Swift Package Manager](https://www.swift.org/documentation/package-manager/).
