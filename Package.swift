@@ -16,7 +16,7 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(
             name: "SSCore",
-            url: "https://github.com/AdGeneration/ADG-SSCore-iOS/releases/download/3.0.0/SSCore-Release-v3.0.0.zip",
-            checksum: "3ad054581e31a00838d366e4e7165a9f7d0b982455e58d1a4823bf20c305576c"),
+            url: "https://github.com/AdGeneration/ADG-SSCore-iOS/releases/download/3.3.0/SSCore-Release-v3.3.0.zip",
+            checksum: "7d728b6d59acd5e2a9850d7d556dc834321681127468452b6f9f892518a58bf3"),
     ]
 )
