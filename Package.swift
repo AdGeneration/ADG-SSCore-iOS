@@ -17,6 +17,6 @@ let package = Package(
         .binaryTarget(
             name: "SSCore",
             url: "https://github.com/AdGeneration/ADG-SSCore-iOS/releases/download/3.5.0/SSCore-Release-v3.5.0.zip",
-            checksum: "d1b8769c4db7ebaff29aa476a2a49f20ae2943f8f5f611e25d1d920e4641fd95e"),
+            checksum: "d1b8769c4db7ebaff29aa476a2a49f20ae2943f8f5f611e25d1d920e4641fd95"),
     ]
 )
